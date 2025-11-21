@@ -1,0 +1,5 @@
+{
+  "name": "WikiTube Auto-Encyclopaedia",
+  "description": "An automated pipeline converting YouTube channels into searchable, structured encyclopaedias using Gemini AI.",
+  "requestFramePermissions": []
+}
